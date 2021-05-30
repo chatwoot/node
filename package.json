@@ -1,0 +1,30 @@
+{
+  "name": "@chatwoot/node",
+  "version": "0.0.1",
+  "description": "Node.js bindings for Chatwoot APIs",
+  "main": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chatwoot/node.git"
+  },
+  "keywords": [
+    "chatwoot",
+    "nodejs",
+    "node",
+    "api"
+  ],
+  "author": "Pranav Raj S",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chatwoot/node/issues"
+  },
+  "homepage": "https://github.com/chatwoot/node#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "eslint-plugin-import": "^2.23.4"
+  },
+  "devDependencies": {
+    "eslint": "^7.27.0",
+    "eslint-config-airbnb-base": "14.2.1"
+  }
+}
