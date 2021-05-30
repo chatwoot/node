@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "description": "Node.js bindings for Chatwoot APIs",
   "main": "lib/index.js",
+  "files": [
+    "lib/"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/chatwoot/node.git"
